@@ -1,9 +1,9 @@
-ChestRegen: 
-  latest version: 9
-  download: https://www.spigotmc.org/resources/chestregen.4921/download?version=56424
-ProRecipes:
-  latest version: 9
-GrimmCraft:
-  latest version: 9
-BuilderTools:
-  latest version: 9
+ChestRegen
+9
+https://www.spigotmc.org/resources/chestregen.4921/download?version=56424
+ProRecipes
+9
+GrimmCraft
+9
+BuilderTools
+9
