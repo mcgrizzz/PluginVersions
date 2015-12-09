@@ -1,6 +1,6 @@
 ChestRegen
 9
-https://www.spigotmc.org/resources/chestregen.4921/download?version=56424
+http://download1494.mediafire.com/5nienqq7nh2g/7r5fq5ofvjvao1j/ChestRegen.jar
 ProRecipes
 9
 GrimmCraft
