@@ -2,7 +2,7 @@ ChestRegen
 3.1.2
 http://download1324.mediafire.com/9mcj6684xrog/knfxv9rigiq6gad/ChestRegen.jar
 ProRecipes
-1.4.5
+1.4.6
 GrimmCraft
 1.4.0
 BuilderTools
