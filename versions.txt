@@ -2,7 +2,7 @@ ChestRegen
 3.2.1
 https://www.dropbox.com/s/24vp6oxgsdzbgnk/ChestRegen.jar?dl=1
 ProRecipes
-1.6.0
+1.6.2
 GrimmCraft
 1.4.0
 BuilderTools
