@@ -7,3 +7,5 @@ GrimmCraft
 1.4.0
 BuilderTools
 1.0.5
+SoundControl
+1.1.0
