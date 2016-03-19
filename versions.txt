@@ -4,7 +4,7 @@ https://www.dropbox.com/s/24vp6oxgsdzbgnk/ChestRegen.jar?dl=1
 ProRecipes
 1.7.7
 GrimmCraft
-1.4.0
+1.4.2
 BuilderTools
 1.0.6
 SoundControl
